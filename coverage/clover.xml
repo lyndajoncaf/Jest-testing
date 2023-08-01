@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1690908539162" clover="3.2.0">
+  <project timestamp="1690908539162" name="All files">
+    <metrics statements="5" coveredstatements="1" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0" elements="9" coveredelements="1" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
+    <file name="filterByTerm.js" path="C:\Codecademy Projects\Jest testing\src\filterByTerm.js">
+      <metrics statements="5" coveredstatements="1" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <line num="2" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="3" count="0" type="stmt"/>
+      <line num="4" count="0" type="stmt"/>
+      <line num="5" count="0" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

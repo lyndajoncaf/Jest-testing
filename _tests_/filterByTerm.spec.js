@@ -2,6 +2,7 @@ function filterByTerm(inputArr, searchTerm) {
     if (searchTerm === "") {
         return[];
     }
+    const filterByTerm = require("../src/filterByTerm");
     const regex = new RegExp(searchTerm, "i");
     return inputArr.filter(function(arrayElement) {
         return arrayElement.url.match(regex);
